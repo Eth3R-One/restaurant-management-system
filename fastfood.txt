@@ -1,0 +1,6 @@
+Chicken_Sandwich*250*350*
+Beef_Sandwich*250*350*
+Bacon_Cheeseburger*270*320*
+Waffle_Fries*100*180*
+Pepperoni_Pizza*320*500*
+Double_Steakburger*199*299*

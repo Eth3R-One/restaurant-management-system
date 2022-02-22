@@ -1,0 +1,10 @@
+Cream_Doughnuts*100*180*
+Strawberry_Cake*100*180*
+Coconut_Cream_Crepe_Cake*120*200*
+Cheesecake_Bars*80*150*
+Nutella_Brownies*80*150*
+Tiramisu*120*200*
+Peach_Pie*120*200*
+Pudding*150*250*
+Cake*150*250*
+Rosogolla*180*280*

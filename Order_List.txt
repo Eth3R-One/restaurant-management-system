@@ -1,0 +1,14 @@
+Token - 10001031*Total Quantity - 9*Pepperoni Pizza  ( Large )  2 x 500 = 1000*Double Steakburger  ( Large )  3 x 299 = 897*Tonic Water  ( Large )  2 x 80 = 160*Fanta  ( Large )  2 x 30 = 60**Total = 2276 (with vat)_
+Token - 10001032*Total Quantity - 1*Som Tum  ( Medium )  1 x 180 = 180**Total = 194 (with vat)_
+Token - 10001033*Total Quantity - 3*Waffle Fries  ( Large )  1 x 180 = 180*Hyderabadi Biryani  ( Large )  2 x 399 = 798**Total = 1052 (with vat)_
+Token - 10001034*Total Quantity - 1*Waffle Fries  ( Medium )  1 x 100 = 100**Total = 108 (with vat)_
+Token - 10001035*Total Quantity - 2*Double Steakburger  ( Large )  1 x 299 = 299*Tofu  ( Large )  1 x 220 = 220**Total = 558 (with vat)_
+Token - 10001036*Total Quantity - 2*Som Tum  ( Medium )  1 x 180 = 180*Tofu  ( Medium )  1 x 180 = 180**Total = 387 (with vat)_
+Token - 10001037*Total Quantity - 4*Tofu  ( Large )  2 x 220 = 440*Yum Goong  ( Medium )  1 x 250 = 250*Tonic Water  ( Large )  1 x 80 = 80**Total = 828 (with vat)_
+Token - 10001038*Total Quantity - 4*Hyderabadi Biryani  ( Large )  2 x 399 = 798*Coca Cola  ( Large )  2 x 30 = 60**Total = 923 (with vat)_
+Token - 10001039*Total Quantity - 1*Double Steakburger  ( Large )  1 x 299 = 299**Total = 322 (with vat)_
+Token - 10001040*Total Quantity - 2*Rosogolla  ( Large )  2 x 280 = 560**Total = 602 (with vat)_
+Token - 10001042*Total Quantity - 3*Hotpot  ( Large )  1 x 350 = 350*Fanta  ( Large )  2 x 30 = 60**Total = 441 (with vat)_
+Token - 10001043*Total Quantity - 2*Masala Dosa  ( Large )  2 x 150 = 300**Total = 323 (with vat)_
+Token - 10001044*Total Quantity - 2*Honey Chilli Potato  ( Large )  2 x 180 = 360**Total = 387 (with vat)_
+Token - 10001045*Total Quantity - 4*Butter Chicken  ( Large )  2 x 220 = 440*Hyderabadi Biryani  ( Large )  1 x 399 = 399*Coca Cola  ( Large )  1 x 30 = 30**Total = 935 (with vat)_

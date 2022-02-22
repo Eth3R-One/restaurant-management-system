@@ -1,0 +1,14 @@
+Chhole_Bhature*80*130*
+Masala_Chai*80*120*
+Kulche*50*80*
+Panipuri*40*60*
+Golgappe*40*60*
+Dhokla*40*60*
+Aloo_Parantha*90*150*
+Masala_Dosa*120*150*
+Kakori_Kebab*180*220*
+Galawti_kebab*190*230*
+Butter_Chicken*180*220*
+Hyderabadi_Biryani*250*399*
+Lucknowi_Biryani*220*320*
+Kolkata_Biryani*220*320*

@@ -1,0 +1,10 @@
+Hotpot*280*350*
+Sichuan_Pork*250*350*
+Dumplings*180*250*
+Chow_Mein*150*220*
+Roasted_Duck*280*380*
+Steamed_Vermicelli_Rolls*120*220*
+Fried_Shrimp*120*180*
+Tofu*180*220*
+Spring_Rolls*120*180*
+Honey_Chilli_Potato*130*180*

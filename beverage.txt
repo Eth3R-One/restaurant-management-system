@@ -1,0 +1,5 @@
+Coca_Cola*20*30*
+Fanta*20*30*
+Sprite*20*30*
+Tonic_Water*50*80*
+Water*15*20*

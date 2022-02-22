@@ -1,0 +1,4 @@
+1*Yum_Goong*250*300
+2*Som_Tum*180*250
+3*Gaeng_Daeng*300*400
+4*Krapow_Moo*250*350
